@@ -1,0 +1,4 @@
+D:\KSP_122_test\GameData\OLDD\LandingAim\LandingAim.dll
+D:\KSP_122_test\GameData\OLDD\LandingAim\LandingAim.pdb
+C:\Users\DennyTX\Documents\Visual Studio 2015\Projects\122\LandingAim\LandingAim\obj\Debug\LandingAim.dll
+C:\Users\DennyTX\Documents\Visual Studio 2015\Projects\122\LandingAim\LandingAim\obj\Debug\LandingAim.pdb
